@@ -58,9 +58,9 @@ Currently based in India, working independently as a Freelance Planning & Contra
 I'm always interested in connecting with professionals, researchers, developers, and innovators working at the intersection of Engineering, Project Management, and Artificial Intelligence.
 
 - 🌐 Portfolio: https://ctrajcl.com
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your professional email]
-- 🔬 ORCID: [Add your ORCID profile]
+- 💼 LinkedIn: www.linkedin.com/in/ctrajcl
+- 📧 Email: ctrajcl@gmail.com
+- 🔬 ORCID: https://orcid.org/0009-0006-2455-6216
 
 ---
 
